@@ -1,6 +1,6 @@
 i do things
 
-C/C++, Python, PowerPC asm
+C/C++, Python, Rust, PowerPC assembly
 
 current interest - Kirby's Epic Yarn
 
